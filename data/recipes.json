@@ -52,7 +52,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
         
-        "rating": { "number": 4.5, "badge": "Excellent" },
+        "rating": { "number": 4, "badge": "Excellent" },
         "chef_id": "1",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -69,7 +69,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
         
-        "rating": { "number": 4.5, "badge": "Excellent" },
+        "rating": { "number": 4, "badge": "Excellent" },
         "chef_id": "1",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -86,7 +86,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
         
-        "rating": { "number": 4.5, "badge": "Excellent" },
+        "rating": { "number": 4, "badge": "Excellent" },
         "chef_id": "1",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -103,7 +103,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
         
-        "rating": { "number": 4.5, "badge": "Excellent" },
+        "rating": { "number": 3.5, "badge": "Excellent" },
         "chef_id": "2",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -111,7 +111,7 @@
         "CookingMethod": "Fry",
         "name": "Chef Naimur Rahman",
         "bio": "Hi, myself Naimur Rahman. I am the head chef of La Meridian. I have been working since 2018. My best dishes are soup, pasta, pizza, french fry etc. Cooking is my passion and I love to cook.",
-        "experience": "3",
+        "experience": "1",
         "NoOfRecipes": "6",
         "Likes": "1000",
         "ChefPicture": "https://i2-prod.cambridge-news.co.uk/incoming/article20096098.ece/ALTERNATES/s615/0_Julal-Syed-from-Taj-Tandoori.jpg"
@@ -120,7 +120,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
         
-        "rating": { "number": 4.5, "badge": "Excellent" },
+        "rating": { "number": 3.5, "badge": "Excellent" },
         "chef_id": "2",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -128,7 +128,7 @@
         "CookingMethod": "Fry",
         "name": "Chef Naimur Rahman",
         "bio": "Hi, myself Naimur Rahman. I am the head chef of La Meridian. I have been working since 2018. My best dishes are soup, pasta, pizza, french fry etc. Cooking is my passion and I love to cook.",
-        "experience": "3",
+        "experience": "1",
         "NoOfRecipes": "6",
         "Likes": "1000",
         "ChefPicture": "https://i2-prod.cambridge-news.co.uk/incoming/article20096098.ece/ALTERNATES/s615/0_Julal-Syed-from-Taj-Tandoori.jpg"
@@ -137,7 +137,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
         
-        "rating": { "number": 4.5, "badge": "Excellent" },
+        "rating": { "number": 3.5, "badge": "Excellent" },
         "chef_id": "2",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -145,7 +145,7 @@
         "CookingMethod": "Fry",
         "name": "Chef Naimur Rahman",
         "bio": "Hi, myself Naimur Rahman. I am the head chef of La Meridian. I have been working since 2018. My best dishes are soup, pasta, pizza, french fry etc. Cooking is my passion and I love to cook.",
-        "experience": "3",
+        "experience": "1",
         "NoOfRecipes": "6",
         "Likes": "1000",
         "ChefPicture": "https://i2-prod.cambridge-news.co.uk/incoming/article20096098.ece/ALTERNATES/s615/0_Julal-Syed-from-Taj-Tandoori.jpg"
