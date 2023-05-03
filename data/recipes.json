@@ -2,7 +2,7 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "rating": { "number": 5, "badge": "Excellent" },
       "chef_id": "0",
       "total_view": 488,
       "title": "Kala Vuna",
@@ -35,7 +35,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
         
-        "rating": { "number": 4.5, "badge": "Excellent" },
+        "rating": { "number": 4, "badge": "Excellent" },
         "chef_id": "0",
         "total_view": 488,
         "title": "Chicken Soup",
@@ -69,7 +69,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
         
-        "rating": { "number": 4, "badge": "Excellent" },
+        "rating": { "number": 5, "badge": "Excellent" },
         "chef_id": "1",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -86,7 +86,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
         
-        "rating": { "number": 4, "badge": "Excellent" },
+        "rating": { "number": 3.5, "badge": "Excellent" },
         "chef_id": "1",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -120,7 +120,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
         
-        "rating": { "number": 3.5, "badge": "Excellent" },
+        "rating": { "number": 3, "badge": "Excellent" },
         "chef_id": "2",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -137,7 +137,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
         
-        "rating": { "number": 3.5, "badge": "Excellent" },
+        "rating": { "number": 4, "badge": "Excellent" },
         "chef_id": "2",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -153,7 +153,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6j",
         
-        "rating": { "number": 4.5, "badge": "Excellent" },
+        "rating": { "number": 5, "badge": "Excellent" },
         "chef_id": "3",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -170,7 +170,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6k",
         
-        "rating": { "number": 4.5, "badge": "Excellent" },
+        "rating": { "number": 4, "badge": "Excellent" },
         "chef_id": "3",
         "total_view": 488,
         "title": "Khashi Vuna",
@@ -187,7 +187,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6l",
         
-        "rating": { "number": 4.5, "badge": "Excellent" },
+        "rating": { "number": 3, "badge": "Excellent" },
         "chef_id": "3",
         "total_view": 488,
         "title": "Khashi Vuna",
